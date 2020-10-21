@@ -1,70 +1,58 @@
-#EXTM3U
-#EXTINF:-1,13ème RUE
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/899
-#EXTINF:-1,13th Street DE
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/994
-#EXTINF:-1,24 Kitchen
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/448
-#EXTINF:-1,24 Kitchen HD NL
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/1043
-#EXTINF:-1,24 Vesti MK
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/527
-#EXTINF:-1,2M Maroc
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/1167
-#EXTINF:-1,3SAT
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/711
-#EXTINF:-1,6 TER HD
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/881
-#EXTINF:-1,6 Eren
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/918
-#EXTINF:-1,DOBRA BALKANSKA HD
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/649
-#EXTINF:-1,DOBRA BOSNJACKA
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/3413
-#EXTINF:-1,DOBRA CINEMA HD
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/3399
-#EXTINF:-1,BUENA ESPANOLA
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/692
-#EXTINF:-1,DOBRA EXCLUSIVE HD
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/694
-#EXTINF:-1,DOBRA ISLAMSKA HD
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/689
-#EXTINF:-1,DOBRA DJECIJA
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/3400
-#EXTINF:-1,A1 Shqiptare
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/739
-#EXTINF:-1,A1 Sport
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/1029
-#EXTINF:-1,DOBRA SRPSKA HD
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/4267
-#EXTINF:-1,DOBRA WORLD MUSIC HD
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/693
-#EXTINF:-1,A2
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/940
-#EXTINF:-1,AB Moteurs
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/900
-#EXTINF:-1,ACHT HD
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/930
-#EXTINF:-1,ACTION
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/882
-#EXTINF:-1,Al Arabiya
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/1186
-#EXTINF:-1,AL Iman TV
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/1183
-#EXTINF:-1,Al Jazeera English
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/1021
-#EXTINF:-1,Al-Aoula-Maroc
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/1168
-#EXTINF:-1,AL: Top Channel HD
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/4320
-#EXTINF:-1,Alfa TV
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/365
-#EXTINF:-1,Alfa TV MK
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/708
-#EXTINF:-1,Aljazeera Arabic
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/1173
-#EXTINF:-1,Alternativna
-http://195.154.207.143:89/ProIptv2015PoRtAl/VvxysdbVSX/495
+ #EXTM3U
+#EXTINF:-1,US: ESPN
+http://iptvtool.es:9977/live/6W464643/Porranko1/135068.m3u8
+#EXTINF:-1,US: ABC HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118402.m3u8
+#EXTINF:-1,US: ABC news
+http://iptvtool.es:9977/live/6W464643/Porranko1/118403.m3u8
+#EXTINF:-1,US: Animal Planet
+http://iptvtool.es:9977/live/6W464643/Porranko1/118404.m3u8
+#EXTINF:-1,US: beIN Sports FHD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118405.m3u8
+#EXTINF:-1,US: Bravo HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118406.m3u8
+#EXTINF:-1,US: CBSN
+http://iptvtool.es:9977/live/6W464643/Porranko1/118407.m3u8
+#EXTINF:-1,US: CBSN HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118408.m3u8
+#EXTINF:-1,US: Cinemax ActionMax East
+http://iptvtool.es:9977/live/6W464643/Porranko1/118409.m3u8
+#EXTINF:-1,US: Cinemax ThrillerMax HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118410.m3u8
+#EXTINF:-1,US: CNN News HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118411.m3u8
+#EXTINF:-1,US: ESPN 2 HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118412.m3u8
+#EXTINF:-1,US: ESPN + HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118413.m3u8
+#EXTINF:-1,US: Fox HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118414.m3u8
+#EXTINF:-1,US: Fox Sport 1 HD (FS1)
+http://iptvtool.es:9977/live/6W464643/Porranko1/118415.m3u8
+#EXTINF:-1,US: Fox Sport 2 HD (FS2)
+http://iptvtool.es:9977/live/6W464643/Porranko1/118416.m3u8
+#EXTINF:-1,US: HBO
+http://iptvtool.es:9977/live/6W464643/Porranko1/118417.m3u8
+#EXTINF:-1,US: HBO Zone HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118418.m3u8
+#EXTINF:-1,US: National Geographic
+http://iptvtool.es:9977/live/6W464643/Porranko1/118419.m3u8
+#EXTINF:-1,US: NBA TV HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118420.m3u8
+#EXTINF:-1,US: NBC Golf Channel
+http://iptvtool.es:9977/live/6W464643/Porranko1/118421.m3u8
+#EXTINF:-1,US: NBC HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118422.m3u8
+#EXTINF:-1,US: Nickelodeon HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118423.m3u8
+#EXTINF:-1,US: American Heroes Cahnnel HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118424.m3u8
+#EXTINF:-1,US: SportsNet One HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118425.m3u8
+#EXTINF:-1,US: Starz Cinema HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118426.m3u8
+#EXTINF:-1,US: SyFy HD
+http://iptvtool.es:9977/live/6W464643/Porranko1/118427.m3u8
 
 
-7 people like thisAfrica, Albania, America, Arabic, Argentina, Asia, Austria, Balkan, Belgium, Bosnia, Brasilian
+6 people like this
